@@ -1,3 +1,3 @@
 # Rock Paper Scissors
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+This is the first project of the certification. It is a simple bot playing rock paper scissors against an opponent. It makes predictions about the opponent's next move based on it's previous moves.
